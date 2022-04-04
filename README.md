@@ -1,5 +1,5 @@
 # QuantMechAtom
-Electron Cloud Model of Atom created by deriving and solving the 3-Dimensional Schrödinger Equation for the first 12 atoms at each of their orbitals.
+Simulation of the Electron Cloud Model of Atom created by deriving and solving the 3-Dimensional Schrödinger Equation for the first 12 atoms at each of their orbitals.
 
 This video explains the Implication, Derivation, and Application of 3-Dimensional Schrödinger Equation, and at the end, shows what the model looks like: https://www.youtube.com/watch?v=yvpPBI9fy-A
 
